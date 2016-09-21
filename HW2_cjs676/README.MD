@@ -1,4 +1,5 @@
 For this homework I worked extensively with Alexi and William and also with Shay and Kelsey and Danny.
+THis homework was due at 5pm on 19 September. I requested and was granted a two day extension. I finished this homework by 5pm on 21 September. 
 
 Assignement #1
   I took a great deal of the code from examples in the lab and the other reference material. I then worked with William to try to
