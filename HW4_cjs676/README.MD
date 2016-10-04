@@ -15,6 +15,10 @@ Assignment #2
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 | Chi-Sq	| Haplogroups  |  Categorical |  Y-chromosomes  |  categorical  |  Linguistic isolates: Ladin and Grecani Salentin | categorical  | he main aim of the present study was comprehensively to analyze the patterns of mtDNA and Y-chromosome variation in Italy. Does the Italian population differ signigicantly than the European population due to the landforms signifigance as a "crossroads" or melting pot" | _Italian Dna more variance than <= control group variance_ | 0.5 | http://journals.plos.org/plosone/article?id=10.1371/annotation/ea14adcb-033d-492d-8f8b-e047aa080cd4 | 
 
+
+| **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+| Chi-Sq	| Haplogroups 
 | ANOVA	|  allowed to gape or not  |  Dichotomous |  maximum and average body temperatures  |  Continous  |  Five mussels of each species were free to gape and five were prevented from gaping using rubber bands. | categorical  | that microhabitat amelioration and lower body temperatures experienced within beds of gaping mussels increase resistance to heat stress.  | _H0 Muscles prevented from gaping mortality>= muscles left to gape_ | .05 | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047382| 
 
 
