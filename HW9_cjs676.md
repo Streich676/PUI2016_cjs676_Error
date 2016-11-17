@@ -1,2 +1,0 @@
-I worked alone. I was not able to finish the project because I had a problem with my Green environment. THe email chain is below.
-THat being said I do not think I have time to work on this assignment tomorrow or Firday. I also have used my extension. 
